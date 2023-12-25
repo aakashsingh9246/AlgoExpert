@@ -1,0 +1,5 @@
+Problem : Given array of distinct integer and target value, write a program to return set of values which adds up to the target in array.
+
+var temp_map = make(map[int]int) instead of this we can initiate a map of struct as it takes no memory 
+
+StoredValues := map[int]struct{}{}
